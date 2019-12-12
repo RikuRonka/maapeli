@@ -10,15 +10,15 @@ Pelissä on kaksi erilaista pelimuotoa
 1. Lippupeli, jossa näytetään kerrallaan maan lippu ja kyseinen maa pitää paikantaa kartalta. 
 2. Pääkaupunkipeli, jossa näytetään kerrallaan pääkaupungin nimi ja siihen kuuluva maa pitää paikantaa kartalta.
 
-Lippupelissä pysty valitsemaan kokonaismäärän lippuja joita arvotaan satunnaisesti kartalle (50, 100, 200) tai pelkkään maanosaan kuuluvat liput (Eurooppa, Afrikka, Aasia, Lähi-itä, Amerikka, Oseania)
+Lippupelissä pysty valitsemaan kokonaismäärän lippuja, joita arvotaan satunnaisesti kartalle (50, 100, 200) tai pelkkään maanosaan kuuluvat liput (Eurooppa, Afrikka, Aasia, Lähi-itä, Amerikka, Oseania)
 
-Pääkaupunkipelissä käydään läpi kaikki maiden pääkapungit.
+Pääkaupunkipelissä käydään läpi kaikki maiden pääkaupungit.
 
-Pelissä pystyy käyttämään vihje-nappia joka ensimmäisellä klikkauksella näyttää kyseisen maan ensimmäisen kirjaimen, toinen painallus näyttää mihin maanosaan maa kuuluu. Molemmat lisäävät käytettyyn aikaan 5 sekuntia. Pelissä (jos ei ole valinnut maanosaa) voi käyttää myös erikoisvihjeen joka viiden lipun jälkeen, mikä näyttää kyseisen maan sijainnin maapallolla.
+Pelissä pystyy käyttämään vihjenappia joka ensimmäisellä klikkauksella näyttää kyseisen maan ensimmäisen kirjaimen, toinen painallus näyttää mihin maanosaan maa kuuluu. Molemmat lisäävät käytettyyn aikaan 5 sekuntia. Pelissä (jos ei ole valinnut maanosaa) voi käyttää myös erikoisvihjeen joka viiden lipun jälkeen, mikä näyttää kyseisen maan sijainnin maapallolla.
 
 Pelissä tallennetaan tulokset, jos pelaaja on valinnut 50, 100 tai 200 lippua, kukin omaan tauluunsa. Tiedoiksi tallennettaan nimi, väärin arvattujen määrä sekä aika.
 
-Pelissä on saavutuksia kullekkin maanosalle.
+Pelissä on saavutuksia kullekin maanosalle.
 
 Esimerkkinä Amerikan saavutukset:
 
