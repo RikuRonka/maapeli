@@ -11,5 +11,22 @@ Lippupelissä pysty valitsemaan kokonaismäärän lippuja joita arvotaan satunna
 
 Pääkaupunkipelissä käydään läpi kaikki maiden pääkapungit.
 
-Pelissä pystyy käyttämään vihje-nappia joka ensimmäisellä klikkauksella näyttää kyseisen maan ensimmäisen kirjaimen, toinen painallus näyttöö mihin maanosaan maa kuuluu. Molemmat lisäävät käytettyyn aikaan 5 sekuntia. Pelissä (jos ei ole valinnut maanosaa) voi käyttää myös erikoisvihjeen joka viiden lipun jälkeen, mikä näyttää kyseisen maan sijainnin maapallolla.
+Pelissä pystyy käyttämään vihje-nappia joka ensimmäisellä klikkauksella näyttää kyseisen maan ensimmäisen kirjaimen, toinen painallus näyttää mihin maanosaan maa kuuluu. Molemmat lisäävät käytettyyn aikaan 5 sekuntia. Pelissä (jos ei ole valinnut maanosaa) voi käyttää myös erikoisvihjeen joka viiden lipun jälkeen, mikä näyttää kyseisen maan sijainnin maapallolla.
 
+Pelissä tallennetaan tulokset, jos pelaaja on valinnut 50, 100 tai 200 lippua, kukin omaan tauluunsa. Tiedoiksi tallennettaan nimi, väärin arvattujen määrä sekä aika.
+
+Pelissä on saavutuksia kullekkin maanosalle.
+
+Esimerkkinä Amerikan saavutukset:
+
+Helpot
+ - Suorita liput alle 5:30
+ 
+Keskivaikeat
+ - Suorita liput alle 4:00
+ 
+Vaikeat
+ - Suorita liput alle 3:00
+ - Saa 10 oikein ensimmäisen 40 sekunnin aikana käyttämättä vihjeitä ollenkaan
+ 
+ Päävalikosta pääse myös liput-sivulle, josta pystyy selailemaan ja hakemaan kaikkia pelissä olevia lippuja, sekä suodattamaan niitä maanosien perusteella
