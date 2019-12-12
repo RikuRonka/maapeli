@@ -1,3 +1,5 @@
+Tämä peli on toteutettu Unity-pelimoottorilla.
+
 Latauslinkki peliin: https://ksamk-my.sharepoint.com/:u:/g/personal/oriro009_edu_xamk_fi/EYfk67cmFw9Pn3jRrDtax-QBHAv7j6G1W1WlGZvEYk7PPg?e=IB0aI6
 
 Esimerkki kuva pelistä (pääkaupunki mode): https://gyazo.com/6d571672301413c51564ed390ff576d1
