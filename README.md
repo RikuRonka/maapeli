@@ -1,6 +1,6 @@
 Tämä peli on toteutettu Unity-pelimoottorilla.
 
-Latauslinkki peliin: https://ksamk-my.sharepoint.com/:u:/g/personal/oriro009_edu_xamk_fi/EYfk67cmFw9Pn3jRrDtax-QBHAv7j6G1W1WlGZvEYk7PPg?e=IB0aI6
+Latauslinkki peliin: https://www.mediafire.com/file/kkb7l47tv9pf1za/maapeli_build.zip/file
 
 Esimerkki kuva pelistä (pääkaupunki mode): https://gyazo.com/6d571672301413c51564ed390ff576d1  
 Liput-välilehti: https://gyazo.com/8d8c43dda9008348c645b438bacc727a
